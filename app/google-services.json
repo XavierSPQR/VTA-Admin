@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1095559164545",
+    "firebase_url": "https://vta-project-48c87-default-rtdb.firebaseio.com",
+    "project_id": "vta-project-48c87",
+    "storage_bucket": "vta-project-48c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095559164545:android:cba6c961c07c345424d380",
+        "android_client_info": {
+          "package_name": "com.anjali.vta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8SDeC_MH_om6DavjaHoLF4MOhVy5VrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095559164545:android:6ee64f7a86eb529124d380",
+        "android_client_info": {
+          "package_name": "com.vtahorana.adminvta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8SDeC_MH_om6DavjaHoLF4MOhVy5VrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095559164545:android:d477866320dafb6224d380",
+        "android_client_info": {
+          "package_name": "com.vtahorana.va"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8SDeC_MH_om6DavjaHoLF4MOhVy5VrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095559164545-hgg0fppp1itvgq2qav52qd9ddteona0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
